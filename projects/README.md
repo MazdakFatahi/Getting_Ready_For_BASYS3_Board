@@ -4,7 +4,7 @@
 ## BASYS3:
 ![alt](./img/BASYS3.jpg)
 
-For BASYS3 Board, &nbsp;***Xlilinx Design Constraints file (XDC)*** &nbsp; to map the HDL signals to the Artix-7 pins can be found  [here][(https://)](https://github.com/Digilent/Basys3/tree/master/Resources/XDC) or you can download it from this repository (just look up ;) )
+For BASYS3 Board, &nbsp;***Xlilinx Design Constraints file (XDC)*** &nbsp; to map the HDL signals to the Artix-7 pins can be found  [here](https://github.com/Digilent/Basys3/tree/master/Resources/XDC) or you can download it from this repository (just look up ;) )
 
 You can comment or uncomment the lines according to your requirements.
 
