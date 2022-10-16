@@ -14,7 +14,7 @@ https://www.xilinx.com/support/download.html
 
 # After installing the Vivado, you should :
 ## 1- install the proper **Cable Driver**:
-Since here we wanted to use **BASYS3 Board** from **DIGILENT**, I followd according to [[1]](Install_Cable_Drivers) following link: </br>
+Since here we wanted to use **BASYS3 Board** from **DIGILENT**, I followd according to [[1]](#Install_Cable_Drivers) following link: </br>
 
 
 ***It must be done manually after the tools have been installed***
