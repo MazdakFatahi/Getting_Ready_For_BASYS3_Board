@@ -63,12 +63,12 @@ In my machine it's:
 ----------
 
 ## *Useful links for BASYS3 Board:</br>*
+[text](https://)
 
+[Getting started with Vivado and Basys3](https://www.youtube.com/watch?v=6_GxkslqbcU)
 
-[Getting started with Vivado and Basys3]([https://](https://www.youtube.com/watch?v=6_GxkslqbcU))
+[Basys 3 Programming Guide](https://digilent.com/reference/learn/programmable-logic/tutorials/basys-3-programming-guide/start?_ga=2.176134561.2098793788.1665654806-2121540558.1661372439)
 
-[Basys 3 Programming Guide]([https://](https://digilent.com/reference/learn/programmable-logic/tutorials/basys-3-programming-guide/start?_ga=2.176134561.2098793788.1665654806-2121540558.1661372439))
+[Programming the BASYS3 Board's Non-Volatile Flash Memory through Vivado](https://sites.google.com/a/umn.edu/mxp-fpga/home/vivado-notes/programming-the-basys3-boards-non-volatile-flash-memory-through-vivado)
 
-[Programming the BASYS3 Board's Non-Volatile Flash Memory through Vivado]([https://](https://sites.google.com/a/umn.edu/mxp-fpga/home/vivado-notes/programming-the-basys3-boards-non-volatile-flash-memory-through-vivado))
-
-[Basys 3 Example Projects]([https://](https://digilent.com/reference/programmable-logic/basys-3/demos/start))
+[Basys 3 Example Projects](https://digilent.com/reference/programmable-logic/basys-3/demos/start)
