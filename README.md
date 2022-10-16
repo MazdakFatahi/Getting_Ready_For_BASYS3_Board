@@ -63,7 +63,7 @@ In my machine it's:
 ----------
 
 ## *Useful links for BASYS3 Board:</br>*
-[text](https://)
+
 
 [Getting started with Vivado and Basys3](https://www.youtube.com/watch?v=6_GxkslqbcU)
 
