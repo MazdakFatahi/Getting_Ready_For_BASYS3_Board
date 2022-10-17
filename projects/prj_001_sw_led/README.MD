@@ -16,3 +16,4 @@ All the 16 switches and LEDs are used in this simple example.  </br>
 As you can see, the state of the switchs are assinged to the state  of the LEDs.
 
 You also need to set the constraints file respectively.
+----------
